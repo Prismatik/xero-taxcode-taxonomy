@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Prismatik/xero-taxcode-taxonomy",
   "devDependencies": {
     "coffee-script": "^1.8.0",
+    "tap-spec": "^2.2.0",
     "tape": "^3.4.0"
   }
 }
