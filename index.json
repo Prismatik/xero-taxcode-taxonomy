@@ -1,0 +1,192 @@
+{
+    "australia": {
+        "BASEXCLUDED": {
+            "description": "BAS Excluded",
+            "rate": 0.0
+        },
+        "CAPEXINPUT": {
+            "description": "GST on Capital",
+            "rate": 10.0
+        },
+        "EXEMPTCAPITAL": {
+            "description": "GST Free Capital",
+            "rate": 0.0
+        },
+        "EXEMPTEXPENSES": {
+            "description": "GST Free Expenses",
+            "rate": 0.0
+        },
+        "EXEMPTEXPORT": {
+            "description": "GST Free Exports",
+            "rate": 0.0
+        },
+        "EXEMPTOUTPUT": {
+            "description": "GST Free Income",
+            "rate": 0.0
+        },
+        "GSTONCAPIMPORTS": {
+            "description": "GST on Capital Imports",
+            "rate": 0.0
+        },
+        "GSTONIMPORTS": {
+            "description": "GST on Imports",
+            "rate": 0.0
+        },
+        "INPUT": {
+            "description": "GST on Expenses",
+            "rate": 10.0
+        },
+        "INPUTTAXED": {
+            "description": "Input Taxed",
+            "rate": 0.0
+        },
+        "OUTPUT": {
+            "description": "GST on Income",
+            "rate": 10.0
+        }
+    },
+    "global": {
+        "GSTONIMPORTS": {
+            "description": "Sales Tax on Imports",
+            "rate": 0.0
+        },
+        "INPUT": {
+            "description": "Tax on Purchases",
+            "rate": 0.0
+        },
+        "NONE": {
+            "description": "Tax Exempt",
+            "rate": 0.0
+        },
+        "OUTPUT": {
+            "description": "Tax on Sales",
+            "rate": 0.0
+        }
+    },
+    "new zealand": {
+        "GSTONIMPORTS": {
+            "description": "GST on Imports",
+            "rate": 0.0
+        },
+        "INPUT2": {
+            "description": "GST on Expenses",
+            "rate": 15.0
+        },
+        "NONE": {
+            "description": "No GST",
+            "rate": 0.0
+        },
+        "OUTPUT2": {
+            "description": "GST on Income",
+            "rate": 15.0
+        },
+        "ZERORATED": {
+            "description": "Zero Rated",
+            "rate": 0.0
+        }
+    },
+    "united kingdom": {
+        "CAPEXINPUT": {
+            "description": "17.5% (VAT on Capital Purchases)",
+            "rate": 17.5
+        },
+        "CAPEXINPUT2": {
+            "description": "20% (VAT on Capital Purchases)",
+            "rate": 20
+        },
+        "CAPEXOUTPUT": {
+            "description": "17.5% (VAT on Capital Sales)",
+            "rate": 17.5
+        },
+        "CAPEXOUTPUT2": {
+            "description": "20% (VAT on Capital Sales)",
+            "rate": 20
+        },
+        "CAPEXSRINPUT": {
+            "description": "15% (VAT on Capital Purchases)",
+            "rate": 15
+        },
+        "CAPEXSROUTPUT": {
+            "description": "15% (VAT on Capital Sales)",
+            "rate": 15
+        },
+        "ECZRINPUT": {
+            "description": "Zero Rated EC Expenses",
+            "rate": 0.0
+        },
+        "ECZROUTPUT": {
+            "description": "Zero Rated EC Goods Income",
+            "rate": 0.0
+        },
+        "ECZROUTPUTSERVICES": {
+            "description": "Zero Rated EC Services",
+            "rate": 0.0
+        },
+        "EXEMPTINPUT": {
+            "description": "Exempt Expenses",
+            "rate": 0.0
+        },
+        "EXEMPTOUTPUT": {
+            "description": "Exempt Income",
+            "rate": 0.0
+        },
+        "GSTONIMPORTS": {
+            "description": "VAT on Imports",
+            "rate": 0.0
+        },
+        "INPUT2": {
+            "description": "20% (VAT on Expenses)",
+            "rate": 20.0
+        },
+        "NONE": {
+            "description": "No VAT",
+            "rate": 0.0
+        },
+        "OUTPUT2": {
+            "description": "20% (VAT on Income)",
+            "rate": 20.0
+        },
+        "RRINPUT": {
+            "description": "5% (VAT on Expenses)",
+            "rate": 5.0
+        },
+        "RROUTPUT": {
+            "description": "5% (VAT on Income)",
+            "rate": 5.0
+        },
+        "SRINPUT": {
+            "description": "15% (VAT on Expenses)",
+            "rate": 15.0
+        },
+        "SROUTPUT": {
+            "description": "15% (VAT on Income)",
+            "rate": 15.0
+        },
+        "ZERORATEDINPUT": {
+            "description": "Zero Rated Expenses",
+            "rate": 0.0
+        },
+        "ZERORATEDOUTPUT": {
+            "description": "Zero Rated Income",
+            "rate": 0.0
+        }
+    },
+    "united states": {
+        "GSTONIMPORTS": {
+            "description": "Sales Tax on Imports",
+            "rate": 0.0
+        },
+        "INPUT": {
+            "description": "Tax on Purchases",
+            "rate": 9.25
+        },
+        "NONE": {
+            "description": "Tax Exempt",
+            "rate": 0.0
+        },
+        "OUTPUT": {
+            "description": "Tax on Sales",
+            "rate": 9.25
+        }
+    }
+}

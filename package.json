@@ -1,0 +1,26 @@
+{
+  "name": "xero-taxcode-taxonomy",
+  "version": "1.0.0",
+  "description": "A taxonomy of Xero tax codes",
+  "main": "index.json",
+  "scripts": {
+    "test": "./node_modules/.bin/coffee test.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prismatik/xero-taxcode-taxonomy"
+  },
+  "keywords": [
+    "xero"
+  ],
+  "author": "david@banham.id.au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prismatik/xero-taxcode-taxonomy/issues"
+  },
+  "homepage": "https://github.com/Prismatik/xero-taxcode-taxonomy",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "tape": "^3.4.0"
+  }
+}
